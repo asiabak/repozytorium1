@@ -11,5 +11,5 @@ def podkreslanie(lancuch):
 # zdanie=input()
 # print(podkreslanie(zdanie))
 
-zdanie="Jaki piękny dziś dzień!"
+zdanie="wlazł kotek na płotek"
 print(podkreslanie(zdanie))
